@@ -1,1 +1,1 @@
-Adding code to fix bugs in the application
+code for fixing bugs in the application
