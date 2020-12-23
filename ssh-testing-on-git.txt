@@ -1,0 +1,1 @@
+testing whether authentication and other git operations happens using ssh keys and not via username and password
